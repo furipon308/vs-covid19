@@ -1,0 +1,2 @@
+# Googleスプレッドシートのデータソースからvs-covid19のjsondataにするスクリプト
+
